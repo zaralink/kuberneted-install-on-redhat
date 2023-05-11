@@ -1,0 +1,1 @@
+# kuberneted-install-on-redhat
